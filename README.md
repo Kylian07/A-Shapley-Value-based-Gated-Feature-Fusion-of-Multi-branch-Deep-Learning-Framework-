@@ -15,6 +15,8 @@ We propose a **multi-branch hybrid deep learning framework** that simultaneously
 
 A novel **Shapley Value-based Gated Fusion mechanism** adaptively integrates these features using a lightweight **MobileNetV3Small** backbone, achieving **state-of-the-art performance** on the **DMR-IR dataset**.
 
+![architecture]["assets/aimma1final (1).pdf"]
+
 ---
 
 ## 🚀 Key Features
