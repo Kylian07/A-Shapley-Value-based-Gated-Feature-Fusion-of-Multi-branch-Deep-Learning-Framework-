@@ -33,7 +33,7 @@ A novel **Shapley Value-based Gated Fusion mechanism** adaptively integrates the
 
 ### Grad-CAM Interpretability
 <p align="center">
-  <img src="assets/aiimaagradcam.png.png" alt="GradCAM Results" width="600"/>
+  <img src="assets/aiimaagradcam.png" alt="GradCAM Results" width="600"/>
 </p>
 
 ---
